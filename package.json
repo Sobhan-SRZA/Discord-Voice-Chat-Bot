@@ -1,0 +1,24 @@
+{
+  "name": "discord-voice-chat-bot",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "@discordjs/voice": "^0.18.0",
+    "axios": "^1.5.1",
+    "discord-speech-recognition": "^3.4.1",
+    "discord.js": "^14.17.2",
+    "dotenv": "^16.4.7",
+    "ffmpeg-static": "^5.2.0",
+    "libsodium-wrappers": "^0.7.15",
+    "opusscript": "^0.1.1",
+    "tweetnacl": "^1.0.3"
+  }
+}

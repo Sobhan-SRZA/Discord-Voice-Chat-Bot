@@ -1,0 +1,7 @@
+node_modules
+.env
+.vscode
+package-lock.json
+quickdb.json
+*.zip
+*.rar
