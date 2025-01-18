@@ -1,14 +1,12 @@
 {
   "name": "discord-voice-chat-bot",
   "version": "0.0.0",
-  "description": "",
+  "description": "Free discord voice chat bot, this is what you can speek with it in discord voice.",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js",
     "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
+  "author": "Sobhan-SRZA (mr.sinre)",
   "license": "BSD-3-Clause",
   "dependencies": {
     "@discordjs/voice": "^0.18.0",
