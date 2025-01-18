@@ -1,5 +1,6 @@
 <div align="center">
     <img src="https://badges.aleen42.com/src/node.svg">
+    <img src="https://badges.aleen42.com/src/javascript.svg">
     <div>
         <img src="https://img.shields.io/github/license/Sobhan-SRZA/Discord-Voice-Chat-Bot?label=License">
         <img src="https://img.shields.io/github/last-commit/Sobhan-SRZA/Discord-Voice-Chat-Bot?label=Last Commit">
