@@ -1,7 +1,7 @@
 {
   "token": "Your application token.",
   "serverId": "Some discord server id for working at there.",
-  "antiCrash": "Anti Crash enable or disable. (only true or false)",
+  "antiCrash": "Anti Crash enable or disable. (only true or false without \"\")",
   "apiKey": "Get api key from https://www.personalityforge.com",
   "apiSecret": "Get api secret from https://www.personalityforge.com"
 }
