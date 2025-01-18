@@ -1,4 +1,21 @@
-حتماً! در ادامه، فایل `README.md` را به‌روزرسانی کرده‌ام تا به زبان انگلیسی روان و با استفاده از ایموجی‌ها جذاب‌تر شود:
+<div align="center">
+    <img src="https://badges.aleen42.com/src/node.svg">
+    <img src="https://img.shields.io/github/v/release/Sobhan-SRZA/Discord-Voice-Chat-Bot?label=Version">
+    <div>
+        <img src="https://img.shields.io/github/license/Sobhan-SRZA/Discord-Voice-Chat-Bot?label=License">
+        <img src="https://img.shields.io/github/last-commit/Sobhan-SRZA/Discord-Voice-Chat-Bot?label=Last Commit">
+        <img src="https://img.shields.io/github/release-date/Sobhan-SRZA/Discord-Voice-Chat-Bot?label=Last Release">
+        <img src="https://img.shields.io/github/downloads/Sobhan-SRZA/Discord-Voice-Chat-Bot/total?label=Downloads">
+    </div>
+    <img src="https://img.shields.io/github/forks/Sobhan-SRZA/Discord-Voice-Chat-Bot?label=Forks">
+    <img src="https://img.shields.io/github/stars/Sobhan-SRZA/Discord-Voice-Chat-Bot?label=Stars">
+    <img src="https://img.shields.io/github/watchers/Sobhan-SRZA/Discord-Voice-Chat-Bot?label=Watchers">
+    <img src="https://img.shields.io/github/languages/code-size/Sobhan-SRZA/Discord-Voice-Chat-Bot?label=Code Size">
+    <img src="https://img.shields.io/github/directory-file-count/Sobhan-SRZA/Discord-Voice-Chat-Bot?label=Files">
+    <div>
+        <img style="display:block;margin-left:auto;margin-right:auto;width:30%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Sobhan-SRZA&repo=Discord-Voice-Chat-Bot&theme=react">
+    </div>
+</div>
 
 ---
 
